@@ -137,6 +137,6 @@ int main(){
     createCities();
     findBestRoute();
     printBestRoute();
-    cout << "The minimum distance reqiered to travel is: " << minDistance;
+    cout << "The minimum distance reqiered to travel is: " << minDistance << endl;
     return 0;
 }
